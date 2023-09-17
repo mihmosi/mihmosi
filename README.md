@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mihmosi
-- 👀 I’m interested in java
+- 👀 I’m working in java
 - 🌱 I’m currently learning microservices, and REST and Spring and many more ... ))) 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
